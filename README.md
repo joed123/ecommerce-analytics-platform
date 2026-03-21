@@ -58,11 +58,9 @@ End-to-end analytics pipeline built on the Olist Brazilian E-Commerce dataset, i
 ecommerce-analytics-platform/
 ├── ingestion/
 │   └── kaggle_to_s3.py
-├── dbt/
-│   └── models/
-│       ├── staging/
-│       ├── intermediate/
-│       └── marts/
+│── models/staging/
+│   └── intermediate/
+│        └── marts/
 ├── architecture.png
 ├── olist-dashboard.pdf
 ├── requirements.txt
