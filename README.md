@@ -3,7 +3,7 @@
 End-to-end analytics pipeline built on the Olist Brazilian E-Commerce dataset, ingesting 100k+ orders through a modern data stack.
 
 ## Architecture
-![Architecture Diagram](architecture12.png)
+![Architecture Diagram](architecture123.png)
 
 ## Tech Stack
 | Tool | Purpose |
